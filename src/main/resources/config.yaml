@@ -1,0 +1,6 @@
+#This will change if the command is usable/not usable or not.
+commandEnabled: true     #true/false         Default Value is True
+#Let it target other players?
+targetOthers: true       #true/false         Default Value is True
+#Permission, only players with permission "op" will be able to use it
+opRestricted: true       #true/false         Default Value is True

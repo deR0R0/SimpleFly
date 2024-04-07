@@ -1,0 +1,8 @@
+name: SimpleFly
+version: '${project.version}'
+main: yt.roro.simple.SimpleFly
+api-version: '1.20'
+commands:
+  fly:
+    description: Toggles flight for player
+    usage: /fly <player>
