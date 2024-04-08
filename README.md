@@ -2,6 +2,12 @@
 
 Configurable Spigot/Bukkit Plugin that allows users to fly without having to switch gamemodes.
 
+#Usage
+[]: Optional
+<>: Required
+/:  Command
+/fly [player]
+
 # Configuration
 You are able to change
 - Command enabled or not
@@ -14,3 +20,6 @@ The config file will walk you through what does what
 2. Drag the file into the plugins folder of your server
 3. Run the server (to create the config files)
 4. Change the config however you would like
+
+#Change Log
+4/7/2024: Release of SimpleFly  (v1.0.0)
