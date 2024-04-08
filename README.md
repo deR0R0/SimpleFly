@@ -24,5 +24,5 @@ The config file will walk you through what does what
 3. Run the server (to create the config files)
 4. Change the config however you would like
 
-#Change Log
-4/7/2024: Release of SimpleFly  (v1.0.0)
+# Change Log
+- 4/7/2024: Release of SimpleFly  (v1.0.0)
