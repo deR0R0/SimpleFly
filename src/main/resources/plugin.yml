@@ -6,3 +6,6 @@ commands:
   fly:
     description: Toggles flight for player
     usage: /fly <player>
+  simplefly-reload:
+    description: Reloads the config for SimpleFly
+    usage: /simplefly-reload

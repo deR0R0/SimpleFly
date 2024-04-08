@@ -14,7 +14,6 @@ public class fly implements CommandExecutor {
         boolean commandEnabled = customConfig.getInstance().get().getBoolean("commandEnabled");
         boolean targetOthers = customConfig.getInstance().get().getBoolean("targetOthers");
         boolean opRestricted = customConfig.getInstance().get().getBoolean("opRestricted");
-        Bukkit.getLogger().info(String.valueOf(commandEnabled));
 
         if(!commandEnabled) {
             sender.sendMessage(ChatColor.GOLD + "[Simple Fly] " + ChatColor.RED + "This command is disabled!");

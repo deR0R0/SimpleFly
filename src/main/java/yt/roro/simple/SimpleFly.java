@@ -4,6 +4,7 @@ import org.bukkit.Bukkit;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.plugin.java.JavaPlugin;
 import yt.roro.simple.commands.fly;
+import yt.roro.simple.commands.simpleflyReload;
 import yt.roro.simple.utils.customConfig;
 
 public final class SimpleFly extends JavaPlugin {
@@ -15,6 +16,7 @@ public final class SimpleFly extends JavaPlugin {
         Bukkit.getLogger().info(("[Simple Fly] Config has successfully been loaded!"));
 
         getCommand("fly").setExecutor(new fly());
+        getCommand("simplefly-reload").setExecutor(new simpleflyReload());
     }
     @Override
     public void onDisable() {
