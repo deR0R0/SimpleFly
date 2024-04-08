@@ -4,8 +4,11 @@ Configurable Spigot/Bukkit Plugin that allows users to fly without having to swi
 
 # Usage
 []: Optional
+
 <>: Required
+
 /:  Command
+
 /fly [player]
 
 # Configuration
