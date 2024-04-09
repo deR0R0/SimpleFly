@@ -9,10 +9,13 @@ Configurable Spigot/Bukkit Plugin that allows users to fly without having to swi
 
 /:  Command
 
+-------------------------------------------
+
 /fly [player]
 
 Result: Allows flight for the player that executed the command or the player provided in the command.
 
+-------------------------------------------
 
 /simplefly-reload
 
