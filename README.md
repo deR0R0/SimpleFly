@@ -2,6 +2,10 @@
 
 Configurable Spigot/Bukkit Plugin that allows users to fly without having to switch gamemodes.
 
+# Development Status
+
+🟢 - Done (I will still bugfix)
+
 # Usage
 []: Optional
 
